@@ -58,6 +58,13 @@ hr {
 	margin-bottom: 10px;
 }
 
+#titulo-pelicula{
+	margin-top: 80px;
+	font-family: italic;
+	font-size: 60px;
+}
+
+
 /*header {
 	background: url("../images/cine.jpg");
 	background-size: cover;
