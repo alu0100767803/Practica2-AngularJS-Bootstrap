@@ -1,30 +1,62 @@
+body {
+	background-color: #C8D5B9
+}
+
 #breve-resumen {
 	padding: 40px;
+	padding-right: 0px;
 }
 
 #footer {
 	background-color: grey;
-	padding: 10px;
 }
 
 #cine {
-	background-color: red;
-	padding: 40px;
+	margin-bottom: 40px;
 }
-#series{
-	background-color: green;
-	padding: 40px;
+
+#series {
+	margin-bottom: 40px;
 }
-#videojuegos{
-	background-color: blue;
-	padding: 40px;
+
+#videojuegos {
+	margin-bottom: 40px;
 }
+
 #compra-y-venta{
-	background-color: orange;
-	padding: 40px;
+		margin-bottom: 40px;
 }
 
+.video iframe {
+	width: 100%;
+	min-height:480px;
+}
 
+h1 {
+	font-family: sans-serif;
+	font-style: italic;
+	font-size: 100px;
+}
+
+hr {
+	border-color: black;
+}
+
+#titulo {
+	font-size: 150px;
+}
+
+#subtitulo{
+	font-size: 25px;
+}
+
+#encabezado{
+	margin-top: 80px;
+}
+
+.container input {
+	margin-bottom: 10px;
+}
 
 /*header {
 	background: url("../images/cine.jpg");
